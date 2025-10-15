@@ -59,7 +59,7 @@ layers:
   - $$mdi:apple-keyboard-command$$
   - $$mdi:keyboard-space$$
   - layer1
-  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - RETURN
   - $$mdi:keyboard-space$$
   - $$mdi:apple-keyboard-option$$
