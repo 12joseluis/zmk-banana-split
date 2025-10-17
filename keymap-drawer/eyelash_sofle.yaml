@@ -91,7 +91,7 @@ layers:
   - $$mdi:arrow-up-bold$$
   - HOME
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: \, h: layer1, s: '|'}
   - {t: '$$mdi:transfer$$', type: trans}
   - RGB HUI
   - RGB HUD
