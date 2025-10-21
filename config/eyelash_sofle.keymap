@@ -47,6 +47,11 @@
             bindings = <&soft_off>;
             key-positions = <14 28 40>;
         };
+
+        test {
+            bindings = <&rgb_ug RGB_ON>;
+            key-positions = <56 60 30 34>;
+        };
     };
 
     keymap {
